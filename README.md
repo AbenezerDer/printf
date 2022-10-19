@@ -1,2 +1,2 @@
-C - printf:
-Team work
+C - printf project:
+Team work yields results.
